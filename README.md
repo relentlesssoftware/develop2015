@@ -1,7 +1,7 @@
 # develop2015
-Here you can find the code drop to support our Develop 2015 talk called "Cloud Surfing".
-Relentless Software has decided to make our Provider Pattern for Unity&reg; open source, 
-so feel free to use it in your own projects.
+This is the code drop to support the Develop 2015 talk called "Cloud Surfing" from Relentless Software.  
+This repository includes an Open Source version of our Provider Pattern for Unity&reg; so feel free to 
+use it in your own projects.
 
 However, this project is not in any way endorsed or supervised by Unity Technologies.
 
